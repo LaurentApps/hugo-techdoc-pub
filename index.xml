@@ -8,6 +8,26 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Oct 2017 15:26:15 +0000</lastBuildDate><atom:link href="https://laurentapps.github.io/hugo-techdoc-pub/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Thème 2</title>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/post/theme2-introduction/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/post/theme2-introduction/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>Découvrir le site</title>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/post/decouvrir/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/post/decouvrir/</guid>
+      <description>Pour commencer This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
       <title>A propos</title>
       <link>https://laurentapps.github.io/hugo-techdoc-pub/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
@@ -16,16 +36,6 @@
       <description>A propos Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
-    </item>
-    
-    <item>
-      <title>Thème 2</title>
-      <link>https://laurentapps.github.io/hugo-techdoc-pub/post/theme2-introduction/</link>
-      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentapps.github.io/hugo-techdoc-pub/post/theme2-introduction/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
@@ -91,7 +101,7 @@ TableOfContents: true Setting the built-in .TableOfContents variables can config
     </item>
     
     <item>
-      <title>Migrate to Hugo from Jekyll</title>
+      <title>Un premier tuto</title>
       <link>https://laurentapps.github.io/hugo-techdoc-pub/post/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
