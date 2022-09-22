@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://laurentapps.github.io/hugo-techdoc-pub/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://laurentapps.github.io/hugo-techdoc-pub/getting-started/</loc>
     <lastmod>2018-12-08T15:26:15+00:00</lastmod>
   </url><url>
@@ -169,9 +172,6 @@
   </url><url>
     <loc>https://laurentapps.github.io/hugo-techdoc-pub/posts/</loc>
     <lastmod>2017-10-17T14:00:45+00:00</lastmod>
-  </url><url>
-    <loc>https://laurentapps.github.io/hugo-techdoc-pub/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://laurentapps.github.io/hugo-techdoc-pub/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
