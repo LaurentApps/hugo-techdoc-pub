@@ -5,6 +5,9 @@
     <loc>https://laurentapps.github.io/hugo-techdoc-pub/getting-started/</loc>
     <lastmod>2018-12-08T15:26:15+00:00</lastmod>
   </url><url>
+    <loc>https://laurentapps.github.io/hugo-techdoc-pub/post/theme2-introduction/</loc>
+    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://laurentapps.github.io/hugo-techdoc-pub/sample/markdown-syntax/</loc>
     <lastmod>2020-11-17T15:26:15+00:00</lastmod>
   </url><url>
@@ -25,9 +28,6 @@
   </url><url>
     <loc>https://laurentapps.github.io/hugo-techdoc-pub/sample/table-of-contents/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://laurentapps.github.io/hugo-techdoc-pub/post/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://laurentapps.github.io/hugo-techdoc-pub/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
@@ -64,6 +64,9 @@
   </url><url>
     <loc>https://laurentapps.github.io/hugo-techdoc-pub/chapter4/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url><url>
+    <loc>https://laurentapps.github.io/hugo-techdoc-pub/post/</loc>
+    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://laurentapps.github.io/hugo-techdoc-pub/sample/search-shortcode/</loc>
     <lastmod>2020-03-30T18:49:06+00:00</lastmod>
@@ -166,9 +169,6 @@
   </url><url>
     <loc>https://laurentapps.github.io/hugo-techdoc-pub/posts/</loc>
     <lastmod>2017-10-17T14:00:45+00:00</lastmod>
-  </url><url>
-    <loc>https://laurentapps.github.io/hugo-techdoc-pub/post/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://laurentapps.github.io/hugo-techdoc-pub/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
