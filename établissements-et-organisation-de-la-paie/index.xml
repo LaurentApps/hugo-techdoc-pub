@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Établissements et Organisation de la paie on Documentation Oper@</title>
-    <link>/%C3%A9tablissements-et-organisation-de-la-paie/</link>
+    <link>https://laurentapps.github.io/hugo-techdoc-pub/%C3%A9tablissements-et-organisation-de-la-paie/</link>
     <description>Recent content in Établissements et Organisation de la paie on Documentation Oper@</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Oct 2017 15:26:15 +0000</lastBuildDate><atom:link href="/%C3%A9tablissements-et-organisation-de-la-paie/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Oct 2017 15:26:15 +0000</lastBuildDate><atom:link href="https://laurentapps.github.io/hugo-techdoc-pub/%C3%A9tablissements-et-organisation-de-la-paie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Paramétrage d&#39;un établissement</title>
-      <link>/%C3%A9tablissements-et-organisation-de-la-paie/parametrage/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/%C3%A9tablissements-et-organisation-de-la-paie/parametrage/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/%C3%A9tablissements-et-organisation-de-la-paie/parametrage/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/%C3%A9tablissements-et-organisation-de-la-paie/parametrage/</guid>
       <description>Liste de vérification à faire lors de la première utilisation d&amp;rsquo;OPER@ Ci après les éléments à vérifier sur vos établissements
 FM5 - Cotisation FNA ***Par défaut
 Pour les établissements dont le taux FNAL n&amp;rsquo;est pas renseigné, le taux appliqué par défaut est 0,1.
@@ -23,10 +23,10 @@ Saisir l&amp;rsquo;année (civile) sur laquelle le taux sera appliqué</descript
     
     <item>
       <title>Organisation de la paie</title>
-      <link>/%C3%A9tablissements-et-organisation-de-la-paie/paie/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/%C3%A9tablissements-et-organisation-de-la-paie/paie/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>/%C3%A9tablissements-et-organisation-de-la-paie/paie/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/%C3%A9tablissements-et-organisation-de-la-paie/paie/</guid>
       <description>Organisation de la paie Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     

@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Accueil on Documentation Oper@</title>
-    <link>/</link>
+    <link>https://laurentapps.github.io/hugo-techdoc-pub/</link>
     <description>Recent content in Accueil on Documentation Oper@</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Oct 2017 15:26:15 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Oct 2017 15:26:15 +0000</lastBuildDate><atom:link href="https://laurentapps.github.io/hugo-techdoc-pub/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Interface générale</title>
-      <link>/ergonomie/interface/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/ergonomie/interface/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/ergonomie/interface/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/ergonomie/interface/</guid>
       <description>Interface générale Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porttitor velit a lacus elementum pharetra. Pellentesque vel hendrerit dolor, eu fermentum orci. Donec dignissim nibh ac ligula feugiat vulputate. Nunc laoreet posuere nunc sagittis ullamcorper. Donec dignissim ullamcorper odio nec sodales. Curabitur ultrices risus sit amet velit auctor ullamcorper. Cras egestas imperdiet turpis, vel pulvinar dui tincidunt vitae.
 &amp;nbsp;success Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Paramétrage d&#39;un établissement</title>
-      <link>/%C3%A9tablissements-et-organisation-de-la-paie/parametrage/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/%C3%A9tablissements-et-organisation-de-la-paie/parametrage/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/%C3%A9tablissements-et-organisation-de-la-paie/parametrage/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/%C3%A9tablissements-et-organisation-de-la-paie/parametrage/</guid>
       <description>Liste de vérification à faire lors de la première utilisation d&amp;rsquo;OPER@ Ci après les éléments à vérifier sur vos établissements
 FM5 - Cotisation FNA ***Par défaut
 Pour les établissements dont le taux FNAL n&amp;rsquo;est pas renseigné, le taux appliqué par défaut est 0,1.
@@ -33,19 +33,19 @@ Saisir l&amp;rsquo;année (civile) sur laquelle le taux sera appliqué</descript
     
     <item>
       <title>Organisation de la paie</title>
-      <link>/%C3%A9tablissements-et-organisation-de-la-paie/paie/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/%C3%A9tablissements-et-organisation-de-la-paie/paie/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>/%C3%A9tablissements-et-organisation-de-la-paie/paie/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/%C3%A9tablissements-et-organisation-de-la-paie/paie/</guid>
       <description>Organisation de la paie Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Bannière et page web</title>
-      <link>/ergonomie/banniere/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/ergonomie/banniere/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/ergonomie/banniere/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/ergonomie/banniere/</guid>
       <description>Zone de recherche La partie supérieure permet de rechercher un ou plusieurs éléments (agent, établissement, etc).
 Sur les pages servant à travailler sur le dossier d&amp;rsquo;un agent, la recherche est composée de zones de saisie : Nom (nom usuel et prénom au format obligatoire : NOM, PRENOM) Matricule
 Sur les pages servant à travailler sur un établissement, elle est composée de zones de saisie :
@@ -54,10 +54,10 @@ Libellé (nom de l&amp;rsquo;établissement) Code (UAI)</description>
     
     <item>
       <title>A propos</title>
-      <link>/a-propos/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/a-propos/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>/a-propos/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/a-propos/</guid>
       <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
 Cobra Viper J Walter Weatherman Cast Learn more and contribute on GitHub.</description>
@@ -65,20 +65,20 @@ Cobra Viper J Walter Weatherman Cast Learn more and contribute on GitHub.</descr
     
     <item>
       <title>Markdown Syntax</title>
-      <link>/gestion-administrative-et-contrats/markdown-syntax/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/gestion-administrative-et-contrats/markdown-syntax/</link>
       <pubDate>Tue, 17 Nov 2020 15:26:15 +0000</pubDate>
       
-      <guid>/gestion-administrative-et-contrats/markdown-syntax/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/gestion-administrative-et-contrats/markdown-syntax/</guid>
       <description>Headings # Heading level 1 ## Heading level 2 ### Heading level 3 #### Heading level 4 ##### Heading level 5 ###### Heading level 6 Emphasis *Italic* **Bold** ~~Strikethrough~~ Horizontal Rule --- Lists Unordered Lists - First item - Second item - Third item - Fourth item or
 * First item * Second item * Third item * Fourth item Ordered Lists 1. First item 2. Second item 3. Third item 4.</description>
     </item>
     
     <item>
       <title>Build-in Shortcodes</title>
-      <link>/gestion-administrative-et-contrats/build-in-shortcodes/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/gestion-administrative-et-contrats/build-in-shortcodes/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/gestion-administrative-et-contrats/build-in-shortcodes/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/gestion-administrative-et-contrats/build-in-shortcodes/</guid>
       <description>See https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes
 figure 2 People Sitting With View of Yellow Flowers during Daytime gist highlight &amp;lt;section id=&amp;#34;main&amp;#34;&amp;gt; &amp;lt;div&amp;gt; &amp;lt;h1 id=&amp;#34;title&amp;#34;&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt; {{ range .Data.Pages }} {{ .Render &amp;#34;summary&amp;#34;}} {{ end }} &amp;lt;/div&amp;gt; &amp;lt;/section&amp;gt; tweet Hugo 0.24 Released: Big archetype update + @Netlify _redirects etc. file supporthttps://t.co/X94FmYDEZJ #gohugo #golang @spf13 @bepsays
 &amp;mdash; GoHugo.io (@GoHugoIO) June 21, 2017 vimeo youtube </description>
@@ -86,28 +86,28 @@ figure 2 People Sitting With View of Yellow Flowers during Daytime gist highligh
     
     <item>
       <title>Chapter 2-3 (weight: 10)</title>
-      <link>/gestion-des-absences/3/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/gestion-des-absences/3/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/gestion-des-absences/3/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/gestion-des-absences/3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Custom Shortcodes</title>
-      <link>/gestion-administrative-et-contrats/custom-shortcodes/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/gestion-administrative-et-contrats/custom-shortcodes/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/gestion-administrative-et-contrats/custom-shortcodes/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/gestion-administrative-et-contrats/custom-shortcodes/</guid>
       <description>Code highlight with clipboard sample/custom-shortcodes.html Copy {{&amp;lt; highlight html &amp;gt;}} &amp;lt;section id=&amp;#34;main&amp;#34;&amp;gt; &amp;lt;div&amp;gt; &amp;lt;h1 id=&amp;#34;title&amp;#34;&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt; {{ range .Pages }} {{ .Render &amp;#34;summary&amp;#34;}} {{ end }} &amp;lt;/div&amp;gt; &amp;lt;/section&amp;gt; {{&amp;lt; /highlight &amp;gt;}} Alert panel Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
     </item>
     
     <item>
       <title>Installation</title>
-      <link>/ergonomie/installation/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/ergonomie/installation/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/ergonomie/installation/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/ergonomie/installation/</guid>
       <description>Install Hugo theme on your project If you have git installed, you can include hugo-theme-techdoc repository into your core repository as submodule using git submodule within your project directory.
 cd your_project git submodule add https://github.com/thingsym/hugo-theme-techdoc.git themes/hugo-theme-techdoc For more information read the Hugo documentation.
 Or download Hugo theme on your project If you have git installed, you can do the following at the command-line-interface within your project directory.
@@ -116,10 +116,10 @@ cd your_project/themes git clone https://github.</description>
     
     <item>
       <title>Table of Contents</title>
-      <link>/gestion-administrative-et-contrats/table-of-contents/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/gestion-administrative-et-contrats/table-of-contents/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/gestion-administrative-et-contrats/table-of-contents/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/gestion-administrative-et-contrats/table-of-contents/</guid>
       <description>&amp;nbsp;Note The TableOfContents field with true in your content’s front matter will render a table of contents.
 TableOfContents: true Setting the built-in .TableOfContents variables can configure what heading levels you want to include in TOC. See the built-in .TableOfContents variables settings
 Section 1 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
@@ -127,20 +127,20 @@ Section 1 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm
     
     <item>
       <title>Creating a New Theme</title>
-      <link>/post/creating-a-new-theme/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/post/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/post/creating-a-new-theme/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/post/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>/post/migrate-from-jekyll/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/post/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>/post/migrate-from-jekyll/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/post/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
@@ -148,19 +148,19 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     
     <item>
       <title>Hello world!</title>
-      <link>/hello_world/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/hello_world/</link>
       <pubDate>Tue, 17 Oct 2017 14:00:45 +0000</pubDate>
       
-      <guid>/hello_world/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/hello_world/</guid>
       <description>Hello world!</description>
     </item>
     
     <item>
       <title>Hello_world</title>
-      <link>/posts/hello_world/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/posts/hello_world/</link>
       <pubDate>Tue, 17 Oct 2017 14:00:45 +0000</pubDate>
       
-      <guid>/posts/hello_world/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/posts/hello_world/</guid>
       <description>aaaaaa
 vvvv
 aaa</description>
@@ -168,37 +168,37 @@ aaa</description>
     
     <item>
       <title>Chapter 2-4 (weight: 20)</title>
-      <link>/gestion-des-absences/4/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/gestion-des-absences/4/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/gestion-des-absences/4/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/gestion-des-absences/4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Chapter 2-2 (weight: 30)</title>
-      <link>/gestion-des-absences/2/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/gestion-des-absences/2/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/gestion-des-absences/2/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/gestion-des-absences/2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Chapter 2-1 (weight: 40)</title>
-      <link>/gestion-des-absences/1/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/gestion-des-absences/1/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/gestion-des-absences/1/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/gestion-des-absences/1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Glossaire</title>
-      <link>/glossaire/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/glossaire/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>/glossaire/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/glossaire/</guid>
       <description>#Glossaire
 A-E CRM Compte Rendu Métier
 Le CRM est envoyé par la DGFiP via net-entreprises. Il contient les derniers taux PAS actualisés à appliquer sur les agents.
@@ -208,10 +208,10 @@ Les employeurs doivent obligatoirement déclarer, avant le 31 janvier de chaque 
     
     <item>
       <title>Index des procédures</title>
-      <link>/index-des-procedures/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/index-des-procedures/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>/index-des-procedures/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/index-des-procedures/</guid>
       <description>A-B C D-F G
 #Glossaire
 A-B A fin de déclarer ces agents comme frontaliers, il faut : Ajout de montant de référence Ajout ou modification manuelle d&amp;rsquo;un taux PAS C Comment savoir qu&amp;rsquo;un dossier est en rejet de clôture ? Configuration du taux FNAL d&amp;rsquo;un établissement Consultation des écritures comptables D-F G </description>
@@ -219,38 +219,38 @@ A-B A fin de déclarer ces agents comme frontaliers, il faut : Ajout de montant 
     
     <item>
       <title>Un article d&#39;actualité</title>
-      <link>/actualites/actu20220926/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/actualites/actu20220926/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>/actualites/actu20220926/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/actualites/actu20220926/</guid>
       <description>Un tableau en markdown Thème 1 Thème 2 Thème 3 contenu de la première colonne Contenue de la seconde colonne Contenu de la troisième colonne Une image en markdown </description>
     </item>
     
     <item>
       <title>Un autre article d&#39;actualité</title>
-      <link>/actualites/actu20220926pm/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/actualites/actu20220926pm/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>/actualites/actu20220926pm/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/actualites/actu20220926pm/</guid>
       <description>Un tableau en markdown Thème 1 Thème 2 Thème 3 contenu de la première colonne Contenue de la seconde colonne Contenu de la troisième colonne Une image en markdown </description>
     </item>
     
     <item>
       <title>Search Shortcode</title>
-      <link>/gestion-administrative-et-contrats/search-shortcode/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/gestion-administrative-et-contrats/search-shortcode/</link>
       <pubDate>Mon, 30 Mar 2020 18:49:06 +0000</pubDate>
       
-      <guid>/gestion-administrative-et-contrats/search-shortcode/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/gestion-administrative-et-contrats/search-shortcode/</guid>
       <description>&amp;nbsp;Note Search Shortcode powered by Algolia
 You can create a search page just by adding search shortcode.</description>
     </item>
     
     <item>
       <title>Hello_world2</title>
-      <link>/archives/hello_world2/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/archives/hello_world2/</link>
       <pubDate>Sun, 17 Dec 2017 14:00:45 +0000</pubDate>
       
-      <guid>/archives/hello_world2/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/archives/hello_world2/</guid>
       <description>aaaaaa
 vvvv
 aaa</description>
@@ -258,10 +258,10 @@ aaa</description>
     
     <item>
       <title>Hello_world2</title>
-      <link>/blog/hello_world2/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/blog/hello_world2/</link>
       <pubDate>Sun, 17 Dec 2017 14:00:45 +0000</pubDate>
       
-      <guid>/blog/hello_world2/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/blog/hello_world2/</guid>
       <description>aaaaaa
 vvvv
 aaa</description>
@@ -269,10 +269,10 @@ aaa</description>
     
     <item>
       <title>Hello_world2</title>
-      <link>/entry/hello_world2/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/entry/hello_world2/</link>
       <pubDate>Sun, 17 Dec 2017 14:00:45 +0000</pubDate>
       
-      <guid>/entry/hello_world2/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/entry/hello_world2/</guid>
       <description>aaaaaa
 vvvv
 aaa</description>
@@ -280,10 +280,10 @@ aaa</description>
     
     <item>
       <title>Hello_world1</title>
-      <link>/archives/hello_world1/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/archives/hello_world1/</link>
       <pubDate>Fri, 17 Nov 2017 14:00:45 +0000</pubDate>
       
-      <guid>/archives/hello_world1/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/archives/hello_world1/</guid>
       <description>aaaaaa
 vvvv
 aaa</description>
@@ -291,10 +291,10 @@ aaa</description>
     
     <item>
       <title>Hello_world1</title>
-      <link>/blog/hello_world1/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/blog/hello_world1/</link>
       <pubDate>Fri, 17 Nov 2017 14:00:45 +0000</pubDate>
       
-      <guid>/blog/hello_world1/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/blog/hello_world1/</guid>
       <description>aaaaaa
 vvvv
 aaa</description>
@@ -302,10 +302,10 @@ aaa</description>
     
     <item>
       <title>Hello_world1</title>
-      <link>/entry/hello_world1/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/entry/hello_world1/</link>
       <pubDate>Fri, 17 Nov 2017 14:00:45 +0000</pubDate>
       
-      <guid>/entry/hello_world1/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/entry/hello_world1/</guid>
       <description>aaaaaa
 vvvv
 aaa</description>
@@ -313,82 +313,82 @@ aaa</description>
     
     <item>
       <title>Chapter 2-0 (weight: no set)</title>
-      <link>/gestion-des-absences/5/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/gestion-des-absences/5/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/gestion-des-absences/5/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/gestion-des-absences/5/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Chapter 3-1</title>
-      <link>/prise-en-charge-financi%C3%A8re/1/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/prise-en-charge-financi%C3%A8re/1/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/prise-en-charge-financi%C3%A8re/1/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/prise-en-charge-financi%C3%A8re/1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Chapter 3-2-1</title>
-      <link>/prise-en-charge-financi%C3%A8re/chapter3-2/1/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/prise-en-charge-financi%C3%A8re/chapter3-2/1/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/prise-en-charge-financi%C3%A8re/chapter3-2/1/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/prise-en-charge-financi%C3%A8re/chapter3-2/1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Chapter 3-2-2</title>
-      <link>/prise-en-charge-financi%C3%A8re/chapter3-2/2/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/prise-en-charge-financi%C3%A8re/chapter3-2/2/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/prise-en-charge-financi%C3%A8re/chapter3-2/2/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/prise-en-charge-financi%C3%A8re/chapter3-2/2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Chapter 3-2-3</title>
-      <link>/prise-en-charge-financi%C3%A8re/chapter3-2/3/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/prise-en-charge-financi%C3%A8re/chapter3-2/3/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/prise-en-charge-financi%C3%A8re/chapter3-2/3/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/prise-en-charge-financi%C3%A8re/chapter3-2/3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Chapter 3-2-4</title>
-      <link>/prise-en-charge-financi%C3%A8re/chapter3-2/4/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/prise-en-charge-financi%C3%A8re/chapter3-2/4/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/prise-en-charge-financi%C3%A8re/chapter3-2/4/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/prise-en-charge-financi%C3%A8re/chapter3-2/4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Chapter 3-3</title>
-      <link>/prise-en-charge-financi%C3%A8re/3/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/prise-en-charge-financi%C3%A8re/3/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/prise-en-charge-financi%C3%A8re/3/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/prise-en-charge-financi%C3%A8re/3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Chapter 3-4</title>
-      <link>/prise-en-charge-financi%C3%A8re/4/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/prise-en-charge-financi%C3%A8re/4/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/prise-en-charge-financi%C3%A8re/4/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/prise-en-charge-financi%C3%A8re/4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Hello_world</title>
-      <link>/archives/hello_world/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/archives/hello_world/</link>
       <pubDate>Tue, 17 Oct 2017 14:00:45 +0000</pubDate>
       
-      <guid>/archives/hello_world/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/archives/hello_world/</guid>
       <description>aaaaaa
 vvvv
 aaa</description>
@@ -396,10 +396,10 @@ aaa</description>
     
     <item>
       <title>Hello_world</title>
-      <link>/blog/hello_world/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/blog/hello_world/</link>
       <pubDate>Tue, 17 Oct 2017 14:00:45 +0000</pubDate>
       
-      <guid>/blog/hello_world/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/blog/hello_world/</guid>
       <description>aaaaaa
 vvvv
 aaa</description>
@@ -407,10 +407,10 @@ aaa</description>
     
     <item>
       <title>Hello_world</title>
-      <link>/entry/hello_world/</link>
+      <link>https://laurentapps.github.io/hugo-techdoc-pub/entry/hello_world/</link>
       <pubDate>Tue, 17 Oct 2017 14:00:45 +0000</pubDate>
       
-      <guid>/entry/hello_world/</guid>
+      <guid>https://laurentapps.github.io/hugo-techdoc-pub/entry/hello_world/</guid>
       <description>aaaaaa
 vvvv
 aaa</description>
