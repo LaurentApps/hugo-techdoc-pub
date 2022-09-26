@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ergonomie on Documentation Oper@</title>
+    <link>/ergonomie/</link>
+    <description>Recent content in Ergonomie on Documentation Oper@</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Oct 2017 15:26:15 +0000</lastBuildDate><atom:link href="/ergonomie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interface générale</title>
+      <link>/ergonomie/interface/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>/ergonomie/interface/</guid>
+      <description>Interface générale Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porttitor velit a lacus elementum pharetra. Pellentesque vel hendrerit dolor, eu fermentum orci. Donec dignissim nibh ac ligula feugiat vulputate. Nunc laoreet posuere nunc sagittis ullamcorper. Donec dignissim ullamcorper odio nec sodales. Curabitur ultrices risus sit amet velit auctor ullamcorper. Cras egestas imperdiet turpis, vel pulvinar dui tincidunt vitae.
+&amp;nbsp;success Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Bannière et page web</title>
+      <link>/ergonomie/banniere/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>/ergonomie/banniere/</guid>
+      <description>Zone de recherche La partie supérieure permet de rechercher un ou plusieurs éléments (agent, établissement, etc).
+Sur les pages servant à travailler sur le dossier d&amp;rsquo;un agent, la recherche est composée de zones de saisie : Nom (nom usuel et prénom au format obligatoire : NOM, PRENOM) Matricule
+Sur les pages servant à travailler sur un établissement, elle est composée de zones de saisie :
+Libellé (nom de l&amp;rsquo;établissement) Code (UAI)</description>
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>/ergonomie/installation/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>/ergonomie/installation/</guid>
+      <description>Install Hugo theme on your project If you have git installed, you can include hugo-theme-techdoc repository into your core repository as submodule using git submodule within your project directory.
+cd your_project git submodule add https://github.com/thingsym/hugo-theme-techdoc.git themes/hugo-theme-techdoc For more information read the Hugo documentation.
+Or download Hugo theme on your project If you have git installed, you can do the following at the command-line-interface within your project directory.
+cd your_project/themes git clone https://github.</description>
+    </item>
+    
+  </channel>
+</rss>
